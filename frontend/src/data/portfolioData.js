@@ -4,11 +4,11 @@ export const personalInfo = {
   tagline: "Aspiring Software Engineer & Full-Stack Developer",
   college: "Canara Engineering College",
   location: "Mangalore, Karnataka, India",
-  email: "your.email@example.com", // Editable placeholder
-  phone: "+91 98765 43210", // Editable placeholder
-  github: "https://github.com/your-username", // Editable placeholder
-  linkedin: "https://linkedin.com/in/your-username", // Editable placeholder
-  leetcode: "https://leetcode.com/your-username", // Editable placeholder
+  email: "karthiknaik0908@gmail.com", // Editable placeholder
+  phone: "+91 8105997291", // Editable placeholder
+  github: "https://github.com/karthiknaik0908-glitch", // Editable placeholder
+  linkedin: "https://www.linkedin.com/in/karthik-janardhan-naik-2312113a2/", // Editable placeholder
+  //leetcode: "https://leetcode.com/your-username", // Editable placeholder
   resumeFileName: "Karthik_Janardhan_Naik_Resume.pdf",
   bio: "Passionate Computer Science and Engineering student at Canara Engineering College, Mangalore. Driven by a love for building robust web applications, solving algorithmic problems, and architecting efficient, user-centric full-stack software solutions.",
   careerObjective: "Dedicated and detail-oriented Computer Science Engineering student seeking an impactful software engineering role or internship. Committed to leveraging strong fundamentals in algorithms, modern JavaScript frameworks, and database engineering to build scalable, high-performance web products that deliver exceptional value.",

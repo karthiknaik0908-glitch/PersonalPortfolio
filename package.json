@@ -1,0 +1,25 @@
+{
+  "name": "karthik-portfolio-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-Stack Personal Portfolio Website for Karthik Janardhan Naik",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "build:frontend": "npm run build --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "generate:resume": "node backend/generateResume.js"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "vite",
+    "tailwindcss",
+    "nodejs",
+    "express",
+    "mongodb-atlas"
+  ],
+  "author": "Karthik Janardhan Naik",
+  "license": "MIT"
+}
